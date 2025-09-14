@@ -73,7 +73,7 @@ const StartButton = styled.button`
 const StartPage = ({ startClick }) => {
 	return (
 		<StyledStartPage>
-			<StartButton onClick={startClick}>Start Play</StartButton>
+			<StartButton onClick={startClick}>Start Play Now</StartButton>
 		</StyledStartPage>
 	);
 };
